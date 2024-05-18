@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm addicted to the little ✅ next to my CI/CD pipeline runs!
+
 <!--
 **GeroVanMi/GeroVanMi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
